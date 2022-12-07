@@ -47,3 +47,4 @@ A skeleton-based real-time online action recognition project, recognizing differ
 
 -------
 ## Results example
+![](https://github.com/sundy1994/sundy1994-Realtime-Person-Re-Id-and-Action-Recognition/blob/main/test_out.gif)
